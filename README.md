@@ -1,2 +1,2 @@
-# simple-Backround-generator
+# simple-Background-generator
 DOM manipulation
